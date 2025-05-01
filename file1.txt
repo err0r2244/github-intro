@@ -1,0 +1,2 @@
+this is an introductory session on git and github 
+we are really having fun
